@@ -83,12 +83,8 @@ module.exports = function(grunt) {
                 options: {
                     port: port,
                     hostname: '*',
-                    base: ['.', 'slides'],
-                    directory: 'slides',
-                    open: {
-                        target: 'http://localhost:8000/slides', // target url to open
-                        appName: 'xdg-open' // name of the app that opens, ie: open, start, xdg-open
-                    }
+                    base: ['.'],
+                    open: 'http://localhost:8000', // target url to open
                 }
             }
         },
