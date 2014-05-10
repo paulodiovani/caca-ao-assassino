@@ -3,6 +3,8 @@
 
 <small>Versão 0.1.0</small>
 
+Um jogo de negociações, investigação e assassinatos.
+
 <small>Tecle <span class="key">space</span> para prosseguir.</small>
 
 ====
