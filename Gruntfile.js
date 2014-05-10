@@ -166,6 +166,6 @@ module.exports = function(grunt) {
     grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
 
     // Export for serve (gh-pages, for example)
-    grunt.registerTask( 'export', [ 'default', 'copy' ]);
+    grunt.registerTask( 'export', [ 'default', 'copy', 'jade' ]);
 };
     

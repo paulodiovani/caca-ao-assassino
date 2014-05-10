@@ -4,8 +4,8 @@
         "description": "Alguns modelos de slides para usar como início para uma apresentação.",
         "url": "slides/modelo/"
     },{
-        "title": "Javascript no servidor com Node.js",
-        "description": "Uma palestra para iniciantes em Node.js, com uma visão geral e alguns exercícios práticos baseados no nodeschool.io.",
-        "url": "slides/nodejs_server_side_javascript/"
+        "title": "Caça ao assassino",
+        "description": "LARP/Cardgame desenvolvido para o Game Chef 2014",
+        "url": "slides/caca-ao-assassino/"
     }]
 }
