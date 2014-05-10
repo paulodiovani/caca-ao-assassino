@@ -90,14 +90,14 @@ module.exports = function(grunt) {
         },
 
         zip: {
-            'reveal-js-presentations.zip': [
+            'caca-ao-assassino.zip': [
                 'exported/**'
             ]
         },
 
         watch: {
             main: {
-                files: [ 'Gruntfile.js', 'js/reveal.js', 'css/reveal.css', 'slides/**' ],
+                files: [ 'Gruntfile.js', 'js/reveal.js', 'css/reveal.css', 'index.html', 'slides/**' ],
                 tasks: 'default'
             },
             theme: {
@@ -112,22 +112,10 @@ module.exports = function(grunt) {
                     //copy all the dependencies
                     {expand: true, src: ['css/**', 'js/**', 'lib/**', 'plugin/**'], dest: 'exported/'},
                     //copy the slides folder
-                    {expand: true, src: ['slides/**'], dest: 'exported/'}
+                    {expand: true, src: ['slides/**'], dest: 'exported/'},
+                    //copy the index
+                    {src: 'index.html', dest: 'exported/'}
                 ]
-            }
-        },
-
-        jade: {
-            index: {
-                options: {
-                    pretty: true,
-                    data: function() {
-                        return require('./slides/slides.json');
-                    }
-                },
-                files: {
-                    'exported/index.html': ['templates/index.jade']
-                }
             }
         }
 
@@ -162,6 +150,6 @@ module.exports = function(grunt) {
     grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
 
     // Export for serve (gh-pages, for example)
-    grunt.registerTask( 'export', [ 'default', 'copy', 'jade' ]);
+    grunt.registerTask( 'export', [ 'default', 'copy' ]);
 };
     
