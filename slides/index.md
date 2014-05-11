@@ -45,7 +45,10 @@ Este jogo é apresentado com slides, porque esta é uma boa forma de visualizar 
 uma a uma num navegador web.
 
 Você pode lê-lo online, mas deve imprimí-lo para poder jogar, fazendo _download_ da 
-versão em PDF (em breve) ou através da [versão para impressão](http://cacaaoassassino.entbonsai.com?print-pdf).
+[versão em PDF][pdf] ou através da [versão para impressão][print].
+
+[pdf]: http://cacaaoassassino.entbonsai.com/download/caca-ao-assassino.pdf
+[print]: http://cacaaoassassino.entbonsai.com?print-pdf
 
 ----
 
@@ -87,8 +90,9 @@ de acordo com a quantidade de jogadores.
 1. Opcionalmente, coloque um CD ou playlist para tocar
 
 ----
+<!-- .slide: class="do-not-print" -->
 
-## Cartas de regras
+## Cartas de **Regras**
 
 ====
 <!-- .slide: data-background="#ff6699" -->
@@ -127,7 +131,6 @@ poder usá-la novamente?
 * após 5 minutos
 * após tocar 1 música inteira (se estiver tocando)
 * imediatamente
-* nunca mais
 
 <small>Escolha uma das opções e leia em voz alta para todos.<br>
 Esta agora é uma regra do jogo.</small>
@@ -188,8 +191,9 @@ Esta carta não aplica nenhuma regra adicional ao jogo.
 Esta carta não aplica nenhuma regra adicional ao jogo.
 
 ----
+<!-- .slide: class="do-not-print" -->
 
-## Cartas de personagens
+## Cartas de **Personagens**
 
 ====
 <!-- .slide: data-background="#9966ff" -->
@@ -234,6 +238,18 @@ esconder.
 
 3 <!-- .element: class="power" -->
 
+### Você é a **Vítima**
+
+O **Assassino** está a sua procura e certamente irá matá-lo.
+
+O melhor a fazer é tentar ficar fora de perigo ou até se
+esconder.
+
+====
+<!-- .slide: data-background="#9966ff" -->
+
+5 <!-- .element: class="power" -->
+
 ### Você é o **Espião**
 
 Você é um espião e agente duplo. Está aqui para obter informações
@@ -242,18 +258,6 @@ de alguém e dá-la a outro alguém.
 Você decide em que lado fica.
 
 Você também é uma **Vítima** (o que significa que pode ser morto).
-
-====
-<!-- .slide: data-background="#9966ff" -->
-
-5 <!-- .element: class="power" -->
-
-### Você é a **Vítima**
-
-O **Assassino** está a sua procura e certamente irá matá-lo.
-
-O melhor a fazer é tentar ficar fora de perigo ou até se
-esconder.
 
 ====
 <!-- .slide: data-background="#9966ff" -->
@@ -288,6 +292,242 @@ O **Assassino** está a sua procura e certamente irá matá-lo.
 
 O melhor a fazer é tentar ficar fora de perigo ou até se
 esconder.
+
+----
+<!-- .slide: class="do-not-print" -->
+
+## Cartas de **Objetivos**
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+1 <!-- .element: class="power" -->
+
+### Objetivo do **Assassino**
+
+<small>Se você não é o **Assassino**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve matar todas as **Vítimas**.
+
+<small>Se cumprir seu objetivo antes de ser preso pelo **Policial**
+    você ganha o jogo.</small>
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+1 <!-- .element: class="power" -->
+
+### Objetivo do **Policial**
+
+<small>Se você não é o **Policial**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve encontrar o **Assassino** e prendê-lo.
+
+Após prendê-lo, você deve apresentar provas de que foi ele quem cometeu 
+os crimes.
+
+<small>Se cumprir seu objetivo antes de todas **Vítimas** serem mortas
+    você ganha o jogo.</small>
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+2 <!-- .element: class="power" -->
+
+### Objetivo do **Vítima**
+
+<small>Se você não é a **Vítima**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve permanecer vivo até o final do jogo.
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+3 <!-- .element: class="power" -->
+
+### Objetivo do **Vítima**
+
+<small>Se você não é a **Vítima**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve permanecer vivo até o final do jogo.
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+5 <!-- .element: class="power" -->
+
+### Objetivo do **Espião**
+
+<small>Se você não é o **Espião**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve escolher um lado, ajudar o **Assassino** ou o **Policial**.
+
+Você deve obter informações e itens para o lado que decidiu ajudar.
+
+<small>Se o lado que decidiu ajudar ganhar o jogo, 
+    você também ganha.</small>
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+8 <!-- .element: class="power" -->
+
+### Objetivo do **Detetive particular**
+
+<small>Se você não é o **Detetive particular**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve desmascarar o **Espião**.
+
+Você pode prendê-lo com as algemas para que ele lhe conte
+tudo o que sabe.
+
+<small>Você ganha se o **Espião** perder o jogo.</small>
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+13 <!-- .element: class="power" -->
+
+### Objetivo do **Vítima**
+
+<small>Se você não é a **Vítima**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve permanecer vivo até o final do jogo.
+
+====
+<!-- .slide: data-background="#99ff66" -->
+
+21 <!-- .element: class="power" -->
+
+### Objetivo do **Vítima**
+
+<small>Se você não é a **Vítima**, procure sua carta de objetivo 
+    e negocie em troca desta.</small>
+
+Você deve permanecer vivo até o final do jogo.
+
+----
+<!-- .slide: class="do-not-print" -->
+
+## Cartas de **Itens**
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+1 <!-- .element: class="power" -->
+
+### **Foice** ![foice](slides/img/sickle.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+<small>Sò pode ser usada pelo **Assassino**.</small>
+
+Mostre esta carta para matar um personagem.
+
+<small>Se você morreu com uso desta carta, você está fora do jogo.
+    Aguarde alguns minutos e, disfarçadamente, espalhe todas suas 
+    cartas de itens pelo cenário para que os outros
+    possam encontrá-las.</small>
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+1 <!-- .element: class="power" -->
+
+### **Algemas** ![algemas](slides/img/handcuffs.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+<small>Sò pode ser usada pelo **Policial** ou pelo **Detetive particular**.</small>
+
+Mostre esta carta para prender um personagem.
+
+<small>Se você foi preso, deve ficar sentado em algum canto sem 
+    falar com nenhum dos outros personagens, exceto aquele
+    que o prendeu.<br>
+    Também deve responder todas as perguntas de quem o prendeu.</small>
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+2 <!-- .element: class="power" -->
+
+### **Prova do crime** ![lupa](slides/img/lupe.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+<small>Sò pode ser usada pelo **Policial**.</small>
+
+Uma prova que pode incriminar o **Assassino**.
+
+<small>Após prender o **Assassino**, o **Policial** pode usar esta prova
+    para incriminá-lo.</small>
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+3 <!-- .element: class="power" -->
+
+### **Dinheiro** ![dinheiro](slides/img/money.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+Dinheiro pode comprar qualquer coisa.
+
+<small>Troque esta carta pela carta de item de outro personagem.
+    Se ele possuir mais de uma, escolha aleatoriamente.</small>
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+5 <!-- .element: class="power" -->
+
+### **Chaves** ![chaves](slides/img/keys.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+Utilize para soltar qualquer personagem que tenha sido preso
+com uso das algemas.
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+8 <!-- .element: class="power" -->
+
+### **Contrato** ![contrato](slides/img/contract.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+Contrato assinado pelo **Detetive particular**
+
+<small>O **Detetive particular** é obrigado a cumprir
+    qualquer pedido que você fizer.</small>
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+13 <!-- .element: class="power" -->
+
+### **Dinheiro** ![dinheiro](slides/img/money.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+Dinheiro pode comprar qualquer coisa.
+
+<small>Troque esta carta pela carta de item de outro personagem.
+    Se ele possuir mais de uma, escolha aleatoriamente.</small>
+
+====
+<!-- .slide: data-background="#ccff66" -->
+
+21 <!-- .element: class="power" -->
+
+### **Chocolate** ![chocolate](slides/img/chocolate.png) <!-- .element: class="no-border inline inline-big" -->
+<!-- .element: class="relative" -->
+
+Uma barra de chocolate.
+
+<small>Pode ser um bom lanche se você estiver com fome.</small>
 
 ----
 
