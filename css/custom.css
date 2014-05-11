@@ -18,7 +18,21 @@ img.inline {
 span.key {
     font-family: monospace;
     font-size: .8em;
-    border: 1px solid grey;
+    border-width: 1px;
+    border-style: solid;
     border-radius: 5px;
     padding: 1px 4px;
+}
+
+p.power {
+    float: right;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 25px;
+    font-family: monospace;
+    font-size: .8em;
+    font-weight: bold;
+    width: 1.2em;
+    height: 1.2em;
+    margin-top: -20px
 }
