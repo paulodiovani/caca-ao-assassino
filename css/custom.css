@@ -15,6 +15,15 @@ img.inline {
     top: 0px;
 }
 
+img.inline-big {
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    transform: scale(2);
+    top: -.5em;
+    padding-left: 60px;
+}
+
 span.key {
     font-family: monospace;
     font-size: .8em;
@@ -35,4 +44,10 @@ p.power {
     width: 1.2em;
     height: 1.2em;
     margin-top: -20px
+}
+
+@media print {
+    .reveal .slides section.do-not-print {
+        display: none !important;
+    }
 }
