@@ -1,21 +1,21 @@
 {
-  "name": "reveal.js",
-  "version": "2.6.2",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "name": "caca-ao-assassino",
+  "version": "0.1.0",
+  "description": "Um jogo de negociações, investigação e assassinatos.",
+  "homepage": "http://cacaaoassassino.entbonsai.com",
+  "subdomain": "cacaaoassassino",
   "scripts": {
     "test": "grunt test",
     "start": ""
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Paulo Diovani Gonçalves",
+    "email": "paulo@diovani.com",
+    "web": "http://blog.diovani.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "https://github.com/paulodiovani/caca-ao-assassino.git"
   },
   "engines": {
     "node": "~0.8.0"
@@ -41,8 +41,8 @@
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://github.com/hakimel/reveal.js/blob/master/LICENSE"
+      "type": "Creative Commons-Attribution-Share alike 4.0 Internacional",
+      "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
     }
   ]
 }
