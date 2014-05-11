@@ -1,7 +1,7 @@
 ## Caça ao assassin![lupa](slides/img/lupe.png) <!-- .element: class="no-border inline" -->
 <!-- .element: class="relative" -->
 
-<small>Versão 0.1.0</small>
+<small>Versão 1.0.1</small>
 
 Um jogo de negociações, investigação e assassinatos.
 
@@ -336,7 +336,7 @@ os crimes.
 
 2 <!-- .element: class="power" -->
 
-### Objetivo do **Vítima**
+### Objetivo da **Vítima**
 
 <small>Se você não é a **Vítima**, procure sua carta de objetivo 
     e negocie em troca desta.</small>
@@ -348,7 +348,7 @@ Você deve permanecer vivo até o final do jogo.
 
 3 <!-- .element: class="power" -->
 
-### Objetivo do **Vítima**
+### Objetivo da **Vítima**
 
 <small>Se você não é a **Vítima**, procure sua carta de objetivo 
     e negocie em troca desta.</small>
@@ -394,7 +394,7 @@ tudo o que sabe.
 
 13 <!-- .element: class="power" -->
 
-### Objetivo do **Vítima**
+### Objetivo da **Vítima**
 
 <small>Se você não é a **Vítima**, procure sua carta de objetivo 
     e negocie em troca desta.</small>
@@ -406,7 +406,7 @@ Você deve permanecer vivo até o final do jogo.
 
 21 <!-- .element: class="power" -->
 
-### Objetivo do **Vítima**
+### Objetivo da **Vítima**
 
 <small>Se você não é a **Vítima**, procure sua carta de objetivo 
     e negocie em troca desta.</small>
