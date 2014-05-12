@@ -1,7 +1,7 @@
 ## Caça ao assassin![lupa](slides/img/lupe.png) <!-- .element: class="no-border inline" -->
 <!-- .element: class="relative" -->
 
-<small>Versão 1.0.1</small>
+<small>Versão 1.0.2</small>
 
 Um jogo de negociações, investigação e assassinatos.
 
@@ -71,7 +71,7 @@ Existem 4 tipos de cartas usadas em jogo, separadas por diferentes cores.
 Cada carta tem um número de importância. Quanto mais baixo este número
 mais importante a carta é no jogo.
 
-Esses números são usados para decidir quais cartas serão usdas usadas
+Esses números são usados para decidir quais cartas serão usadas
 de acordo com a quantidade de jogadores.
 
 * **4 jogadores**: Cartas com números `1`, `2`, `3`
@@ -85,9 +85,11 @@ de acordo com a quantidade de jogadores.
 ### Preparação 3
 
 1. Separe as cartas de acordo com o número de jogadores
-1. Distribua-as igualmente para cada jogador
+1. Embaralhe cada cor separadamente
+1. Distribua-as igualmente entre os jogadores
 1. Cada um lê as instruções das cartas e começa a jogar
-1. Opcionalmente, coloque um CD ou playlist para tocar
+
+<small>Opcionalmente, coloque um CD ou playlist para tocar</small>
 
 ----
 <!-- .slide: class="do-not-print" -->
@@ -268,6 +270,8 @@ Você também é uma **Vítima** (o que significa que pode ser morto).
 
 Você é um detetive particular contratado por um dos
 outros personagens.
+
+Você também é uma **Vítima** (o que significa que pode ser morto).
 
 ====
 <!-- .slide: data-background="#9966ff" -->
