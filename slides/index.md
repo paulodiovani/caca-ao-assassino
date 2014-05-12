@@ -1,11 +1,12 @@
 ## Caça ao assassin![lupa](slides/img/lupe.png) <!-- .element: class="no-border inline" -->
 <!-- .element: class="relative" -->
 
-<small>Versão 1.0.2</small>
+<small>Versão 1.0.3</small>
 
 Um jogo de negociações, investigação e assassinatos.
 
 <small>Tecle <span class="key">space</span> para prosseguir.</small>
+<!-- .element: class="do-not-print" -->
 
 ====
 
@@ -27,7 +28,7 @@ como mostrados a seguir.
 
     * **Indomado**
 
-        O _Assassino_ está a solta e deve ser preso pelo policial antes de mate todos os outros personagens.
+        O _Assassino_ está a solta e deve ser preso pelo policial antes que mate todos os outros personagens.
 
     * **Reluzente**
 
@@ -35,7 +36,7 @@ como mostrados a seguir.
 
     * **Foice**
 
-        A _Morte_ anda a espreita e pode chegar para qualquer um.
+        A _Morte_ anda à espreita e pode chegar para qualquer um.
 
 ====
 

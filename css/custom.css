@@ -47,7 +47,8 @@ p.power {
 }
 
 @media print {
-    .reveal .slides section.do-not-print {
+    .reveal .slides section.do-not-print,
+    .do-not-print {
         display: none !important;
     }
 }
